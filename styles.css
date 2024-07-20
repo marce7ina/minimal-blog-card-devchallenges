@@ -15,7 +15,6 @@
   font-family: "Sora", sans-serif;
 }
 body {
-  min-width: 375px;
   display: flex;
   align-items: center;
   justify-content: center;
