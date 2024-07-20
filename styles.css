@@ -23,7 +23,6 @@ body {
   background-color: var(--greyish-white);
 }
 #article {
-  margin: 10%;
   background-color: var(--white);
   min-width: 368px;
   width: 368px;
