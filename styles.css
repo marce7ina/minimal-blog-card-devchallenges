@@ -15,12 +15,14 @@
   font-family: "Sora", sans-serif;
 }
 body {
+  font-size: 0.875rem;
+  background-color: var(--greyish-white);
+}
+main {
   display: flex;
   align-items: center;
   justify-content: center;
   height: 100dvh;
-  font-size: 0.875rem;
-  background-color: var(--greyish-white);
 }
 #article {
   background-color: var(--white);
