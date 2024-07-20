@@ -23,10 +23,10 @@ body {
   background-color: var(--greyish-white);
 }
 #article {
-  min-width: 300px;
   margin: 10%;
   background-color: var(--white);
   min-width: 368px;
+  width: 368px;
   padding: 1rem;
   border-radius: 10px;
   display: flex;
